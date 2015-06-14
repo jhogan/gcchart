@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+}
+h1{
+    color: blue;
+    margin:1%;
+}
+#divPage{
+    width: 100%;
+    
+}
+
+#imgChart{
+    border: 1px solid black;
+    width: 89%;
+
+}
+#divTextView{
+    float:right;
+    background-color: white;
+    color: black;
+    height: 490px;
+    width: 10%;
+    padding: 5px;
+    border: 1px solid black;
+    overflow: auto;
+    font-family: monospace;
+    font-weight: bold;
+}
+#divForm{
+    width: 526px;
+}
+
+#lstAccts{
+    color: blue;
+    float:right;
+    border: 1px solid black;
+}
+
+#spnFrom{
+    margin: 2%;
+    display: block;
+}
+
+#txtFrom{
+    width: 10ex;
+
+}
+
+#spnTo{
+    margin: 2%;
+    display:block;
+}
+
+#txtTo{
+    width: 10ex;
+    margin-left:4%;
+}
+
+#btnSubmit{
+    margin: 2% 11%;
+    display: block;
+
+}
+#cboIntervalType{
+    display: block;
+    margin-left:11%;
+}
+#divEx{
+    background-color:red;
+    border:1px solid;
+    color:blue;
+    text-align:center;
+    width:100%;
+}
+#aReloadCache {
+    float:right;
+    font-family:monospace;
+    font-size:30px;
+    margin:0 1%;
+    
+}
